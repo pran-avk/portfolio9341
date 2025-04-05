@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:portfolio/PAges/AboutMe.dart';
 import 'package:portfolio/PAges/HomePAge.dart';
-import 'package:portfolio/PAges/Skills.dart';
+import 'package:portfolio/PAges/projects.dart';
 import 'package:portfolio/PAges/certificates.dart';
 
 void main() {
