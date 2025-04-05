@@ -35,7 +35,7 @@ class _ProjectsSectionState extends State<ProjectsSection> {
       'title': 'Blinkit Clone',
       'description':
       'This frontend Flutter clone of Blinkit features dynamic category scrolling, item grids, and animated navigation. The clone replicates the look and feel of real-world delivery apps, showcasing best practices in Flutter layout, interactivity, UI performance, and design for ultra-fast grocery experiences.',
-      'image': 'https://th.bing.com/th/id/OIP.I0ViwSDS-8qCHr1w5blJVAHaHa?w=169&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+      'image': 'https://i.pinimg.com/736x/36/7c/d4/367cd4a3a1510bf52f1acbea26228a57.jpg',
     },
   ];
 
